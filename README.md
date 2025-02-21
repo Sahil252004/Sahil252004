@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sahil252004.github.io/Portfolio_Website/](https://sahil252004.github.io/Portfolio_Website/)
 
-![](https://leetcard.sahimamrutkar1808.cool/lapor?ext=contest)
 <br/>  
 
 
@@ -25,7 +24,6 @@
 <br/>  
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
