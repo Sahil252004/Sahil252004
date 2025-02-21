@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahil252004.github.io/Portfolio_Website/](https://sahil252004.github.io/Portfolio_Website/)
 
-
+![LeetCode Stats](https://leetcode.card.workers.dev/sahilamrutkar1808?theme=forest&font=baloo&extension=null)
 <br/>  
 
 
