@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Amrutkar</h1>
 <h3 align="center">Full Stack Developer || Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil252004&label=Profile%20views&color=0e75b6&style=flat" alt="sahil252004" /> </p>
+
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
 - 👨‍💻 All of my projects are available at [https://sahil252004.github.io/Portfolio_Website/](https://sahil252004.github.io/Portfolio_Website/)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/sahilamrutkar1808?theme=forest&font=baloo&extension=null)
+
 <br/>  
 
 
