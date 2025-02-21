@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Amrutkar</h1>
-<h3 align="center">Full Stack Developer || Cloud Enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineer;Full+Stack+Web+Developer;Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 
 
@@ -7,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sahil252004.github.io/Portfolio_Website/](https://sahil252004.github.io/Portfolio_Website/)
 
+- 📫 How to reach me **sahilamrutkar1808@gmail.com**
+- 
 <br/>  
 
 
